@@ -1,5 +1,5 @@
 # Ahoy! Onboarding
-Onboarding library for android with Gradient, Image or Solid color backgrounds.
+Onboarding library for android with Gradient, Images or Solid color backgrounds.
 
 ![](preview/preview.gif)
 
